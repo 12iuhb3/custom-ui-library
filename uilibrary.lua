@@ -208,7 +208,7 @@ function Library:Load(cfgs)
 		Position = UDim2.new(0.5, 8, 0, 0),
 		Size = UDim2.new(0, 45, 0, 45),
 		Parent = GUI,
-		Image = "rbxassetid://87587254400812",
+		Image = "rbxassetid://135668421955688",
 	}, {
 		Create("UICorner", {
 			CornerRadius = UDim.new(0, 6),
