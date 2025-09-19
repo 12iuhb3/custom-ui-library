@@ -1246,7 +1246,7 @@ function TabModule:New(Title, Parent)
 	local SearchBox = Create("TextBox", {
 		Size = UDim2.new(1, 0, 0, 32),
 		Position = UDim2.new(0, 0, 0, 0),
-		PlaceholderText = "Search elements...",
+		PlaceholderText = "🔍Search",
 		TextXAlignment = Enum.TextXAlignment.Left,
 		Text = "",
 		Font = Enum.Font.Gotham,
